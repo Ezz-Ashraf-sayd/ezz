@@ -1,0 +1,2 @@
+# ezz
+first repo
